@@ -123,6 +123,7 @@ footer a {
     width: 95%;
   }
 }
+
 @media (max-width: 400px) {
   .fa-bars {
     display: block;
